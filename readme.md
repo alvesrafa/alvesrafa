@@ -10,8 +10,8 @@
   Sou apaixonado por arte, jogos e técnologia!
 </p>
 
-- 🌱 Atualmente estou estudando JavaScript;
-- 🖤 Amo dançar (sim, sou dançarino), jogar online e é claro, codar!.
+- 🌱 Atualmente estou estudando JavaScript/Typescript (ReactJS, React-Native, NodeJS);
+- 🖤 Amo dançar (Hip Hop), jogar online e é claro, codar!.
 
 ## ⚡ Technologies
 
