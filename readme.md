@@ -1,25 +1,25 @@
-## Rafael Alves
+# Rafael Alves
 
-### Desenvolvedor Full-stack
+## Full-Stack Developer
 
 <hr>
 
-## Seja bem-vindo(a)
+## Welcome
 
 <p style="margin: 22px 0;">
-  Sou apaixonado por arte, jogos e técnologia!
+  I enjoy technologies, art and games!
 </p>
 
-- 🌱 Atualmente estou estudando JavaScript/Typescript (ReactJS, React-Native, NodeJS);
-- 🖤 Amo dançar (Hip Hop), jogar online e é claro, codar!.
+- 🌱 Actually I am working with Javascript/Typescript, different frameworks based on ReactJS, NodeJS and React-Native
+- 🖤 Development aside, some things that I like to do is: Dancing (Hip Hop <3),Play games with my friends, listen musics and be with my family👦🏽👩🏾‍🦱👶🏽
 
 ## ⚡ Technologies
 
-Estas são as ferramentas que trabalho e continuo aprendendo novas coisas a todo momento
+Here a few technologies I am used to use on my life:
 
 ![React](https://img.shields.io/badge/-React-303846?style=flat-square&logo=react)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat-square&logo=node.js)
-![NodeJS](https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=Typescript)
+![Typescript](https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=Typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
