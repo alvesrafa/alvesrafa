@@ -11,8 +11,8 @@
 </p>
 
 - 🌱 Actually I am working with Javascript/Typescript, different frameworks based on ReactJS, NodeJS and React-Native
-- 🖤 Development aside, some things that I like to do is: Dancing (Hip Hop <3),Play games with my friends, listen musics and be with my family👦🏽👩🏾‍🦱👶🏽
-
+- 🖤 Development aside, some things that I like to do is: Dancing (Hip Hop <3),Play games with my friends, listen musics and be with my family👦🏽👩🏾‍🦱👶🏽🐈‍⬛🐈‍⬛
+  
 ## ⚡ Technologies
 
 Here a few technologies I am used to use on my life:
